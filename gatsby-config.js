@@ -73,6 +73,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    pathPrefix: "/yeungn.github.io/gatsby-blog-demo",
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
